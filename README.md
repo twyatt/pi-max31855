@@ -7,7 +7,7 @@
 
 ## Computer
 ```bash
-$ gradle distZip
+$ ./gradlew distZip
 ```
 * ZIP file will be located in build/distributions
 * Copy pi-max31855.zip to your Raspberry Pi
