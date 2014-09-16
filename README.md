@@ -3,7 +3,7 @@
 
 # Instructions
 ## Wiring
-![Wiring](wiring.png)
+![Wiring](wiring.jpg)
 
 ## Computer
 ```bash
